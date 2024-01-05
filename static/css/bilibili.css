@@ -1,0 +1,8 @@
+.is_ad {
+  /* visibility: hidden; */
+  display: none !important;
+}
+
+.floor-single-card {
+  display: none;
+}
